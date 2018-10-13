@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.svg
 actionText: Get Started →
-actionLink: /guide/
+actionLink: https://www.meetup.com/VuejsLA/
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
